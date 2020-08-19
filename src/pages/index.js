@@ -1,5 +1,13 @@
 import React from "react"
 
-export default function Home() {
-  return <div>Hello Friend!</div>
+const indexPage = () => {
+  return (
+    <div>
+      <h1>Hello.</h1>
+      <h2>I am Jonesh, a web developer living in Nepal.</h2>
+
+    </div>
+  )
 }
+
+export default indexPage
