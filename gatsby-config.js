@@ -6,5 +6,7 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: [],
+  plugins: [
+    'gatbsy-plugin-sass'
+  ],
 }
