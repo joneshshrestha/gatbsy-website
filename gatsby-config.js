@@ -9,7 +9,7 @@ module.exports = {
   siteMetadata: {
     title: 'Gatsby Website',
     author: 'Jonesh Shrestha',
-    
+
   },
   plugins: [
     'gatsby-plugin-sass'
